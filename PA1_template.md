@@ -3,7 +3,7 @@ title: "Personal Activity Monitoring"
 
 ---
 
-This is an analysis of data from a personal activity monitoring device. Data was collected at 5 minute intervals through out the day, from 01.10.2012 until 30.11.2012.
+This is an analysis of data from a personal activity monitoring device. Data was collected at 5 minute intervals through out the day, from 01.10.2012 until 30.11.2012.  
 
 ```{r message=FALSE}
 require(markdown)

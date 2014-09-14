@@ -4,7 +4,7 @@ output:
   html_document: default
 ---
 
-This is an analysis of data from a personal activity monitoring device. Data was collected at 5 minute intervals through out the day, from 01.10.2012 until 30.11.2012.
+This is an analysis of data from a personal activity monitoring device. Data was collected at 5 minute intervals through out the day, from 01.10.2012 until 30.11.2012. 
 
 ```{r message=FALSE}
 require(markdown)
@@ -18,7 +18,7 @@ head(data); dim(data)
 
 ```
 
-### How many steps per day?
+### How many steps per day? 
 
 As the first step, the total number of steps taken per day is calculated.
 
